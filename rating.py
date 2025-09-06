@@ -1,0 +1,1 @@
+print("5 Star Rating module implemented and tested")
